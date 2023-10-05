@@ -1,2 +1,2 @@
 # Courier Cost Calculator
-This Python program calculates courier costs using control structures (If, Elif, Else) based on the customer's preferences. Run the program and follow the prompts to calculate and print the result.
+Follow the on-screen instructions to enter an item's price and distance, and then choose between options such as Delivery Type, Insurance Limit, Gift Wrap, etc. The program can calculate and return the total cost of sending a parcel considering your preferences.
